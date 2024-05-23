@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 200519e616ba1ff45bde4f7f5dfcc194, type: 3}
+  m_Name: WaveH
+  m_EditorClassIdentifier: 
+  <EnemiesInWave>k__BackingField:
+  - {fileID: 5867028216108683247, guid: e8de98ba63ffe61478456b9141ea0f58, type: 3}
+  - {fileID: 5987275694225462008, guid: b25531f26669bdc47ac9238febe75d39, type: 3}
+  - {fileID: 7915351660853978727, guid: 84fbb2044e3afb642a2c541972752882, type: 3}
+  <TimeBeforeWave>k__BackingField: 6
+  <NumberToSpawn>k__BackingField: 3
